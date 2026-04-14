@@ -1,6 +1,4 @@
 
-
-````markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=150&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Qasim%20Safi&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header" />
 </p>
@@ -112,6 +110,6 @@ I'm **Qasim Safi**, a passionate **BS Software Engineering** student with hands-
 <p align="center">
   <i>⭐ "Code is like humor. When you have to explain it, it's bad."</i>
 </p>
-```
+
 
 
