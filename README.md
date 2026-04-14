@@ -65,7 +65,7 @@ I'm **Qasim Safi**, a passionate **BS Software Engineering** student with hands-
 ## 📈 GitHub Stats
 
 <div align="center">
- safi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+ 
 </div>
 <br>
 <div align="center">
