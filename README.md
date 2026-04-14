@@ -65,13 +65,11 @@ I'm **Qasim Safi**, a passionate **BS Software Engineering** student with hands-
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qasim-safi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasim-safi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+ safi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 <br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qasim-safi&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=qasim-safi&theme=tokyonight&no-frame=true&column=3&margin-w=15" width="48%" />
 </div>
 
 ---
